@@ -1,0 +1,40 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar{
+	background-color: #EB9532;
+	height: 30px;
+}
+
+
+.sidebar > ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.sidebar .active {
+    background-color: #D5DBD8;
+}
+
+.sidebar .active > a {
+    text-decoration: none;
+    color: #2B2828;
+}
+
+.img-circle{
+	margin-bottom: 20px;
+}
+
+#home, #profile, #messages, #settings, #video{
+	margin-top:120px;
+	margin-left: 20px;
+}
+
+.tab-pane .row{
+	border-bottom: 1px solid #ECF0F1;
+	padding-bottom:5px;
+	margin-bottom:15px;
+}
+
